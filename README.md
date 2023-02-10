@@ -25,7 +25,7 @@
         <ul>
                 <li>🎓 Pursuing a <strong>Computer Systems Technology</strong> diploma at the British Columbia Institute
                         of Technology.</li>
-                <li>🏢 Several years of industry experience in <strong>marketing automation and operations</strong> working with
+                <li>🏢 Several years of industry experience in <strong>marketing automation</strong> working with
                         retail, ecommerce, and SaaS organizations.</li>
                 <li>👨🏻‍💻 Currently working on a refresh of my website to deepen my knowledge of <strong>Vue.js, Express.js,
                         and GraphQL</strong>.</li>
