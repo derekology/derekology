@@ -56,4 +56,12 @@
                 alt="Salesforce Marketing Cloud" title="Salesforce Marketing Cloud" />
         <img src="https://img.shields.io/badge/MailChimp-FFE01B?style=for-the-badge&logo=MailChimp&logoColor=black"
                 alt="MailChimp" title="MailChimp" />
+        <img src="https://img.shields.io/badge/Google Analytics-E37400?style=for-the-badge&logo=Google Analytics&logoColor=black"
+                alt="Google Analytics" title="Google Analytics" />
+        <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=Netlify&logoColor=black"
+                alt="Netlify" title="Netlify" />
+        <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=WordPress&logoColor=black"
+                alt="Wordpress" title="Wordpress" />
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=black"
+                alt="GitHub" title="GitHub" />
 </div>
