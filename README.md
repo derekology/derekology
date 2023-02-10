@@ -18,7 +18,7 @@
         <h1><img
                         src="https://github.com/derekology/derekology/blob/main/images/waving-hand.gif"
                         alt="Waving hand" title="Waving hand" height="45" /> Hi there, my name is Derek.</h1>
-        <p>I am a technical marketer and aspiring developer from Vancouver, Canada 🇨🇦 with a passion for solving problems
+        <p>I am a technical marketer and aspiring developer from Vancouver, Canada with a passion for solving problems
                 using
                 technology.
         </p>
