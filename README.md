@@ -1,6 +1,6 @@
 <div id="header">
         <a href="https://derekw.co/"><img
-                        src="https://github.com/derekology/derekology/blob/main/images/profile-header.png?raw=true"
+                        src="https://github.com/derekology/derekology/blob/main/images/profile-header.png"
                         alt="Profile photo" title="derekw.co" width="325" /></a>
         <div id="profile-links">
                 <a href="https://me.derekw.co/"><img
@@ -15,7 +15,9 @@
         </div>
 </div>
 <div id="summary">
-        <h1>👋 Hi there, my name is Derek</h1>
+        <h1><img
+                        src="https://github.com/derekology/derekology/blob/main/images/waving-hand.gif"
+                        alt="Waving hand" title="Waving hand" height="45" /> Hi there, my name is Derek</h1>
         <p>I am an technical marketer and aspiring developer from Vancouver, Canada with a passion for solving problems
                 using
                 technology.
