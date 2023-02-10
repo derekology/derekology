@@ -17,8 +17,8 @@
 <div id="summary">
         <h1><img
                         src="https://github.com/derekology/derekology/blob/main/images/waving-hand.gif"
-                        alt="Waving hand" title="Waving hand" height="45" /> Hi there, my name is Derek</h1>
-        <p>I am a technical marketer and aspiring developer from Vancouver, Canada with a passion for solving problems
+                        alt="Waving hand" title="Waving hand" height="45" /> Hi there, my name is Derek.</h1>
+        <p>I am a technical marketer and aspiring developer from Vancouver, Canada 🇨🇦 with a passion for solving problems
                 using
                 technology.
         </p>
@@ -32,7 +32,7 @@
                 <li>💬 Let's chat about travelling (New York and Toronto being recent faves), hockey (Go Canucks Go!),
                         tech trends, or anything else! </li>
                 <li>☕ Connect with me on <a
-                                href="https://www.linkedin.com/in/derekology/">Linkedin</a> or by <a href="mailto:me@derekw.co">email.</a></li>
+                                href="https://www.linkedin.com/in/derekology/">Linkedin</a> or by <a href="mailto:me@derekw.co">email</a>.</li>
         </ul><br/>
 </div>
 <div id="skills">
