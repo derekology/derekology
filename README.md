@@ -2,7 +2,7 @@
         <a href="https://derekw.co/"><img
                         src="https://github.com/derekology/derekology/blob/main/images/profile-header.png"
                         alt="Profile photo" title="derekw.co" /></a>
-        <div id="profile-links-left">
+        <div id="profile-links">
                 <a href="https://me.derekw.co/"><img
                                 src="https://img.shields.io/badge/Portfolio-ae1e1e?style=for-the-badge&logo=About.me&logoColor=white"
                                 alt="Website" title="Website" /></a>
@@ -11,7 +11,7 @@
                                 alt="Linkedin" title="Linkedin Profile" /></a>
                 <a href="mailto:me@derekw.co"><img
                                 src="https://img.shields.io/badge/Email Me-222222?style=for-the-badge&logo=Mail.Ru&logoColor=white"
-                                alt="Email Me" title="Email Me"  align="right"/></a>
+                                alt="Email Me" title="Email Me"/></a>
         </div>
 </div>
 <div id="summary">
