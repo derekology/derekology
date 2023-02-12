@@ -1,7 +1,7 @@
 <div id="header">
         <a href="https://derekw.co/"><img
                         src="https://github.com/derekology/derekology/blob/main/images/profile-header.png"
-                        alt="Profile photo" title="derekw.co" /></a>
+                        alt="Profile photo" title="derekw.co" width="349" /></a>
         <div id="profile-links">
                 <a href="https://me.derekw.co/"><img
                                 src="https://img.shields.io/badge/Portfolio-ae1e1e?style=for-the-badge&logo=About.me&logoColor=white"
