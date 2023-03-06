@@ -29,6 +29,7 @@
                         retail, ecommerce, and SaaS organizations.</li>
                 <li>👨🏻‍💻 Currently working on a refresh of my website to deepen my knowledge of <strong>Vue.js, Express.js,
                         and GraphQL</strong>.</li>
+                <li>📖 Wanting to learn more about building desktop apps using <strong>Electron</strong> or <strong>Python + GTK</strong>.</li>
                 <li>💬 Let's chat about travelling (New York and Toronto being recent faves), hockey (Go Canucks Go!),
                         tech trends, or anything else! </li>
                 <li>☕ Connect with me on <a
