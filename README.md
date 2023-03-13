@@ -34,8 +34,24 @@
                         tech trends, or anything else! </li>
                 <li>☕ Connect with me on <a
                                 href="https://www.linkedin.com/in/derekology/">Linkedin</a> or by <a href="mailto:me@derekw.co">email</a>.</li>
-        </ul><br/>
-</div>
+        </ul>
+</div><br/>
+<div id="projects">
+        <details>
+        <summary>
+                Current Personal Projects:
+        </summary>
+
+<ul><br/>
+
+<li><a href="https://github.com/derekology/outfit-picker-client"><strong>Outfit Picker</strong></a> (<a href="https://github.com/derekology/outfit-picker-api">Backend</a>) - randomly chooses an outfit from your closet based on the current weather.</li><br/>
+
+<li><a href="https://github.com/derekology/derekw-v2"><strong>new.derekw.co</strong></a> - custom front-end for Wordpress-hosted content.</li>
+</ul>
+
+</details>
+
+</div><br/>
 <div id="skills">
         <h2>⚒️ Skills</h2>
         <h3>Languages & Frameworks</h3>
@@ -64,6 +80,4 @@
                 alt="Netlify" title="Netlify" />
         <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=WordPress&logoColor=black"
                 alt="Wordpress" title="Wordpress" />
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=black"
-                alt="GitHub" title="GitHub" />
 </div>
