@@ -43,10 +43,7 @@
         </summary>
 
 <ul><br/>
-
-<li><a href="https://github.com/derekology/outfit-picker-client"><strong>Outfit Picker</strong></a> (<a href="https://github.com/derekology/outfit-picker-api">Backend</a>) - randomly chooses an outfit from your closet based on the current weather.</li><br/>
-
-<li><a href="https://github.com/derekology/derekw-v2"><strong>new.derekw.co</strong></a> - custom front-end for Wordpress-hosted content.</li>
+<li><a href="https://outfitpicker.wooprojects.com/"><strong>Outfit Picker</strong></a> - randomly chooses an outfit from your closet based on the current weather.</li><br/>
 </ul>
 
 </details>
