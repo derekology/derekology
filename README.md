@@ -27,8 +27,8 @@
                         of Technology.</li>
                 <li>🏢 Several years of industry experience in <strong>marketing automation</strong> working with
                         retail, ecommerce, and SaaS organizations.</li>
-                <li>👨🏻‍💻 Currently working on a refresh of my website to deepen my knowledge of <strong>Vue.js, Express.js,
-                        and GraphQL</strong>.</li>
+                <li>👨🏻‍💻 Currently rewriting of my first self-learn project, Outfit Picker, to strengthen my knowledge of <strong>React, Express.js,
+                        and MongoDB</strong>.</li>
                 <li>📖 Wanting to learn more about building desktop apps using <strong>Electron</strong> or <strong>Python + GTK</strong>.</li>
                 <li>💬 Let's chat about travelling (New York and Toronto being recent faves), hockey (Go Canucks Go!),
                         tech trends, or anything else! </li>
@@ -36,25 +36,14 @@
                                 href="https://www.linkedin.com/in/derekology/">Linkedin</a> or by <a href="mailto:me@derekw.co">email</a>.</li>
         </ul>
 </div><br/>
-<div id="projects">
-        <details>
-        <summary>
-                Current Personal Projects:
-        </summary>
-
-<ul><br/>
-<li><a href="https://outfitpicker.wooprojects.com/"><strong>Outfit Picker</strong></a> - randomly chooses an outfit from your closet based on the current weather.</li><br/>
-</ul>
-
-</details>
-
-</div><br/>
 <div id="skills">
         <h2>⚒️ Skills</h2>
         <h3>Languages & Frameworks</h3>
         <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"
                 alt="Javascript" title="Javascript" />
-        <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=black"
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"
+                alt="Typescript" title="Typescript" />
+        <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white"
                 alt="Vue.js" title="Vue.js" />
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"
                 alt="Python" title="Python" />
@@ -62,8 +51,12 @@
                 title="HTML" />
         <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS"
                 title="CSS" />
-        <img src="https://img.shields.io/badge/MS SQL-CC2927?style=for-the-badge&logo=Microsoft SQL Server&logoColor=white"
-                alt="MS SQL" title="MS SQL" />
+        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white" alt="Bootstrap"
+                title="Bootstrap" />
+        <img src="https://img.shields.io/badge/SQL Server-CC2927?style=for-the-badge&logo=Microsoft SQL Server&logoColor=white"
+                alt="SQL Server" title="SQL Server" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"
+                alt="MongoDB" title="MongoDB" />
         <h3>Platforms</h3>
         <img src="https://img.shields.io/badge/Marketo-5C4C9F?style=for-the-badge&logo=Marketo&logoColor=white"
                 alt="Marketo" title="Marketo" />
@@ -73,8 +66,10 @@
                 alt="MailChimp" title="MailChimp" />
         <img src="https://img.shields.io/badge/Google Analytics-E37400?style=for-the-badge&logo=Google Analytics&logoColor=black"
                 alt="Google Analytics" title="Google Analytics" />
-        <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=Netlify&logoColor=black"
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=black"
+                alt="Firebase" title="Firebase" />
+        <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=Netlify&logoColor=white"
                 alt="Netlify" title="Netlify" />
-        <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=WordPress&logoColor=black"
+        <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=WordPress&logoColor=white"
                 alt="Wordpress" title="Wordpress" />
 </div>
