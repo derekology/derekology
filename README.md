@@ -63,7 +63,7 @@
                 alt="Salesforce Marketing Cloud" title="Salesforce Marketing Cloud" />
         <img src="https://img.shields.io/badge/MailChimp-FFE01B?style=for-the-badge&logo=MailChimp&logoColor=black"
                 alt="MailChimp" title="MailChimp" />
-        <img src="https://img.shields.io/badge/Google Analytics-E37400?style=for-the-badge&logo=Google Analytics&logoColor=black"
+        <img src="https://img.shields.io/badge/Google Analytics-E37400?style=for-the-badge&logo=Google Analytics&logoColor=white"
                 alt="Google Analytics" title="Google Analytics" />
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=black"
                 alt="Firebase" title="Firebase" />
