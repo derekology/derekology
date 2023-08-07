@@ -1,27 +1,24 @@
 <div id="header">
         <a href="https://derekw.co/"><img
                         src="https://github.com/derekology/derekology/blob/main/images/profile-header.png"
-                        alt="Profile photo" title="derekw.co" width="325" /></a>
+                        alt="Profile photo" title="derekw.co" width="325" target="_blank" /></a>
         <div id="profile-links">
                 <a href="https://derekw.co/"><img
                                 src="https://img.shields.io/badge/Portfolio-ae1e1e?style=for-the-badge&logo=About.me&logoColor=white"
-                                alt="Website" title="Website" /></a>
+                                alt="Website" title="Website" target="_blank" /></a>
                 <a href="https://www.linkedin.com/in/derekology/"><img
                                 src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-                                alt="Linkedin" title="Linkedin Profile" /></a>
+                                alt="Linkedin" title="Linkedin Profile" target="_blank" /></a>
                 <a href="mailto:me@derekw.co"><img
                                 src="https://img.shields.io/badge/Email-222222?style=for-the-badge&logo=Mail.Ru&logoColor=white"
-                                alt="Email" title="Email"/></a>
+                                alt="Email" title="Email" target="_blank" /></a>
         </div>
 </div>
 <div id="summary">
         <h1><img
                         src="https://github.com/derekology/derekology/blob/main/images/waving-hand.gif"
                         alt="Waving hand" title="Waving hand" height="45" /> Hi there, my name is Derek.</h1>
-        <p>I am a technical marketer and aspiring developer from Vancouver, Canada with a passion for solving problems
-                using
-                technology.
-        </p>
+        <p>I'm an experienced marketing professional with a passion for using technology to solve real-world problems. </p>
         <ul>
                 <li>🎓 Pursuing a <strong>Computer Systems Technology</strong> diploma at the British Columbia Institute
                         of Technology.</li>
@@ -32,7 +29,7 @@
                 <li>💬 Let's chat about travelling (New York and Toronto being recent faves), hockey (Go Canucks Go!),
                         tech trends, or anything else! </li>
                 <li>☕ Connect with me on <a
-                                href="https://www.linkedin.com/in/derekology/">Linkedin</a> or by <a href="mailto:me@derekw.co">email</a>.</li>
+                                href="https://www.linkedin.com/in/derekology/" target="_blank">Linkedin</a> or by <a href="mailto:me@derekw.co">email</a>.</li>
         </ul>
 </div><br/>
 <div id="skills">
