@@ -15,9 +15,7 @@
         </div>
 </div>
 <div id="summary">
-        <h1><img
-                        src="https://github.com/derekology/derekology/blob/main/images/waving-hand.gif"
-                        alt="Waving hand" title="Waving hand" height="45" /> Hi there, my name is Derek.</h1>
+        <h1>👋 Hi there, my name is Derek.</h1>
         <p>I'm an experienced marketing professional with a passion for using technology to solve real-world problems. </p>
         <ul>
                 <li>🎓 Pursuing a <strong>Computer Systems Technology</strong> diploma at the British Columbia Institute
