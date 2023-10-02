@@ -22,7 +22,7 @@
                         of Technology.</li>
                 <li>🏢 Several years of industry experience in <strong>marketing automation</strong> working with
                         retail, ecommerce, and SaaS organizations.</li>
-                <li>👨🏻‍💻 Currently rewriting my first self-learn project, Outfit Picker, to strengthen my knowledge of <strong>MongoDB, Express, React, and Node</strong>.</li>
+                <li>👨🏻‍💻 Currently working on a social media share link parser using <strong>Python with Django</strong> to help organize my "to-go" list.</li>
                 <li>📖 Wanting to learn more about building desktop apps using <strong>Electron</strong> or <strong>Python + GTK</strong>.</li>
                 <li>💬 Let's chat about travelling (New York and Toronto being recent faves), hockey (Go Canucks Go!),
                         tech trends, or anything else! </li>
