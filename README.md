@@ -3,7 +3,7 @@
                         src="https://github.com/derekology/derekology/blob/main/images/profile-header.png"
                         alt="Profile photo" title="derekw.co" width="325" target="_blank" /></a>
         <div id="profile-links">
-                <a href="https://derekw.co/"><img
+                <a href="https://derekw.co/?utm_source=github&utm_medium=portfolio"><img
                                 src="https://img.shields.io/badge/Portfolio-ae1e1e?style=for-the-badge&logo=About.me&logoColor=white"
                                 alt="Website" title="Website" target="_blank" /></a>
                 <a href="https://www.linkedin.com/in/derekology/"><img
