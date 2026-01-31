@@ -15,12 +15,11 @@
         </div>
 </div>
 
-# 👋 Hey, I'm Derek
-I'm a software engineer at the intersection of marketing and tech. I love creating simple, practical solutions that make complex workflows easier.
+# 👋 Hi there, my name is Derek.
+As a software engineer at the intersection of marketing and tech, I love creating practical solutions that make complex workflows easier.
 - 🎓 Graduated with a **BBA in Marketing** and **diploma in Computer Systems**
-- 🏢 Experienced in **data-driven marketing automation**, now applying that knowledge as a software engineer building marketing systems
-- 👨🏻‍💻 Currently working with **Rails, AWS services, and distributed systems**
-- 💡 Passionate about bridging strategy and tech: from automating campaign execution to building marketer-focused tools and dashboards  
+- 🏢 Experienced in **data-driven marketing automation**, now building marketing systems as a software engineer
+- 👨🏻‍💻 Currently working with **React, Rails, AWS services, and distributed systems**
+- 💡 Passionate about bridging strategy and tech: from automating campaign execution to building marketer-focused tools  
 - 🏈 Sports fan: **Canucks** & **Seahawks**  
 - ☕ Connect with me via [LinkedIn](https://www.linkedin.com/in/derekology/) or [email](mailto:me@derekw.co)
-
